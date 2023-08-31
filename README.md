@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursing 3rd year<br>🌱 I’m currently learning Full stack development<br>💬 How to react me...Instagram & LinkedIn <br>⚡ Fun fact - I am lazy but smart
+Hi, I'm Geethanjali<br><br>I'm computer science and engineering student in pre-final year now,<br>my goal to be developer in my future so I’m currently learning<br>Full Stack development in the Edureka  
 
 
 ## 🌐 Socials:
